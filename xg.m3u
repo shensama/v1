@@ -10,12 +10,8 @@ https://cdn.hklive.tv/raw/77.ts
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://iptv.hkanime.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
 https://cdn.hklive.tv/raw/76.ts
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://iptv.hkanime.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
-cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://iptv.hkanime.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
-cdn.hklive.tv/xxxx/81b/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台-1" tvg-logo="https://iptv.hkanime.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
 https://cdn.hklive.tv/raw/81.ts
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)-1" tvg-logo="https://iptv.hkanime.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://iptv.hkanime.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
 https://cdn.hklive.tv/raw/81b.ts
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://iptv.hkanime.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
 https://cdn.hklive.tv/raw/82.ts
